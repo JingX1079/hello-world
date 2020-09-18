@@ -4,13 +4,13 @@ Assignment 4 for COM306
 Hi! This is Jing. I'm a senior. I major in Philosophy and I also LOVE COMPUTER SCIENCE!
 simple text is easy
 
-#Different
+# Different
 
-##level of
+## level of
 
-###headers?
+### headers?
 
-####iguess
+#### iguess
 
 **the bold type**
 ~~a strikethrough?~~
