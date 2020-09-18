@@ -3,9 +3,13 @@ Assignment 4 for COM306
 
 Hi! This is Jing. I'm a senior. I major in Philosophy and I also LOVE COMPUTER SCIENCE!
 simple text is easy
+
 #Different
+
 ##level of
+
 ###headers?
+
 ####iguess
 
 **the bold type**
